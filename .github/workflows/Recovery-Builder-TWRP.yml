@@ -9,6 +9,7 @@ on:
         default: ''
         type: choice
         options:
+        - twrp-14.1
         - twrp-12.1
         - twrp-11
       DEVICE_TREE:
